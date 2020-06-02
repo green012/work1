@@ -79,7 +79,4 @@
             <url>https://repo.spring.io/milestone</url>
         </pluginRepository>
     </pluginRepositories>
-<build>
-    <finalName>mytestapp</finalName>
-</build>
 </project>
